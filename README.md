@@ -9,7 +9,7 @@ This plugin adds a smooth teleporting animation when using the Ender Pearl.
 - Done.
 
 ## Preview
-![](https://github.com/imLuckii/SmoothPearl/blob/main/extra/example.gif)
+![](https://github.com/imLuckii/SmoothPearl/blob/main/extras/example.gif)
 
 ## Issue Reporting
 
