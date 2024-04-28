@@ -1,6 +1,6 @@
 ## About
 
-This plugin adds a smooth teleporting animation when using the Ender Pearl.
+This plugin adds a smooth teleporting animation when using the EnderPearl.
 
 ## How to use?
 - Just download the ``.phar`` file.
