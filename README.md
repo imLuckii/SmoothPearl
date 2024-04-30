@@ -21,4 +21,4 @@ Any suggestions you may have to improve SmoothPearl are welcome. Feel free to cr
 
 ## Contribution
 
-I appreciate your interest in contributing to SmoothPearl. However, I'll not be merging pull requests.
+I appreciate your interest in contributing to SmoothPearl. However, I'll not be merging pull requests. Feel free to leave a suggestion.
