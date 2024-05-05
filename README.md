@@ -1,3 +1,5 @@
+[![](https://poggit.pmmp.io/shield.dl/SmoothPearl)](https://poggit.pmmp.io/p/SmoothPearl) [![](https://poggit.pmmp.io/shield.dl.total/SmoothPearl)](https://poggit.pmmp.io/p/SmoothPearl)
+
 ## About
 
 This plugin adds a smooth teleporting animation when using the EnderPearl.
