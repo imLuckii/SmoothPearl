@@ -1,0 +1,9 @@
+# Config Version
+# DO NOT CHANGE THIS
+config-version: "1.0"
+
+# Enable or disable fall damage when the pearl lands. Use true or false.
+damage: false
+
+# The amount of damage dealt when the pearl lands, measured in HP (2 HP = 1 heart). Only numerical values are allowed.
+amount: 4

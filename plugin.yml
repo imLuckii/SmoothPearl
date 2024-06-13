@@ -1,5 +1,5 @@
 name: SmoothPearl
-version: 1.0.0
-api: 5.15.0
+version: 2.0.0
+api: 5.16.0
 main: imLuckii\SmoothPearl\Loader
-author: imlucki
+author: imluckii

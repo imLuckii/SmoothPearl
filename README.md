@@ -10,6 +10,19 @@ This plugin adds a smooth teleporting animation when using the EnderPearl.
 - Restart the server.
 - Done.
 
+## Config
+
+```yaml
+# Configuration Version
+config-version: "1.0"
+
+# Enable or disable fall damage when the pearl lands. Use true or false.
+damage: false
+
+# The amount of damage dealt when the pearl lands, measured in HP (2 HP = 1 heart). Only numerical values are allowed.
+amount: 17
+```
+
 ## Preview
 ![](https://github.com/imLuckii/SmoothPearl/blob/main/extras/example.gif)
 
@@ -23,4 +36,4 @@ Any suggestions you may have to improve SmoothPearl are welcome. Feel free to cr
 
 ## Contribution
 
-I appreciate your interest in contributing to SmoothPearl. However, I'll not be merging pull requests. Feel free to leave a suggestion.
+If you want to contribute to this project, create a pull request [here](https://github.com/imLuckii/SmoothPearl/pulls).
